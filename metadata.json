@@ -1,0 +1,6 @@
+{
+  "name": "Holy Home",
+  "description": "A Christian Android launcher transforming your smartphone into a Holy Bible with sacred page turning, Malagasy scripture, and elegant app organization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
